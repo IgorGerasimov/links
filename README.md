@@ -45,6 +45,7 @@
 
 - Filebeat `https://xeraa.net/blog/2020_filebeat-modules-with-docker-kubernetes/`
 - ExtDNS `https://peiruwang.medium.com/eks-exposing-service-with-external-dns-3be8facc73b9`
+- Sharded Mongo `https://docs.mongodb.com/kubernetes-operator/master/tutorial/deploy-sharded-cluster/`
 
 ## Lifecycle Policy's
 
@@ -52,6 +53,11 @@
 
 
 # CI/CD
+
+
+## Process
+
+- Argo+Tekton `https://developers.redhat.com/blog/2020/10/14/building-modern-ci-cd-workflows-for-serverless-applications-with-red-hat-openshift-pipelines-and-argo-cd-part-2#get_started_with_argo_cd`
 
 ## ArgoCD
 
