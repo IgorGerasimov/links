@@ -80,3 +80,11 @@
 - s3 and Vault `https://learn.hashicorp.com/tutorials/vault/raft-storage-aws`
 
 # Useful links
+
+
+
+# Monitoring 
+
+## Prometheus
+
+- Set of rules `https://awesome-prometheus-alerts.grep.to/rules#docker-containers`
